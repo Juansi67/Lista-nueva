@@ -1,0 +1,13 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="http://Juansi:alaMadrid@alfzn.duckdns.org/logo.png" group-title="ALFZN",Canal 1 Server
+http://Juansi:alaMadrid@alfzn.duckdns.org/canal1
+#EXTINF:-1 tvg-logo="http://Juansi:alaMadrid@alfzn.duckdns.org/logo.png" group-title="ALFZN",Canal 2 Server
+http://Juansi:alaMadrid@alfzn.duckdns.org/canal2
+#EXTINF:-1 tvg-logo="http://Juansi:alaMadrid@alfzn.duckdns.org/logo.png" group-title="ALFZN",Canal 3 Server
+http://Juansi:alaMadrid@alfzn.duckdns.org/canal3
+#EXTINF:-1 tvg-logo="http://Juansi:alaMadrid@alfzn.duckdns.org/logo.png" group-title="ALFZN",Canal 4 Server
+http://Juansi:alaMadrid@alfzn.duckdns.org/canal4
+#EXTINF:-1 tvg-logo="http://Juansi:alaMadrid@alfzn.duckdns.org/logo.png" group-title="ALFZN",Canal 5 Server
+http://Juansi:alaMadrid@alfzn.duckdns.org/canal5
+#EXTINF:-1 tvg-logo="http://Juansi:alaMadrid@alfzn.duckdns.org/logo.png" group-title="ALFZN",Canal 6 Server
+http://Juansi:alaMadrid@alfzn.duckdns.org/canal6
